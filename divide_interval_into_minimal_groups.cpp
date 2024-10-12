@@ -6,4 +6,6 @@ public:
         partial_sum(begin(fr), end(fr), begin(fr));      // 3
         return *max_element(begin(fr), end(fr));
     }
+
+
 };

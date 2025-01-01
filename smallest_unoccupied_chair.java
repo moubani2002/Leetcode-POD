@@ -26,6 +26,6 @@ class Solution {
             takenSeats.offer(new int[]{leave, seat});
         }
 
-        return 0;
+        return -1;
     }
 }
